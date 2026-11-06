@@ -1,4 +1,5 @@
 # Walmart Data Analysis: End-to-End SQL + Python Project 
+![Walmart Data Analysis](walmart-tech-showcase-v2.svg)
 
 ## Project Overview
 
